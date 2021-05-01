@@ -1,9 +1,9 @@
-# Dynamic URL Routes
+# Dynamic Paths
 
-## Objectives
+## Learning Goals
 
-1. Explain how dynamic routes prevent web applications from having to be rewritten as new information is added
-2. Create dynamic routes 
+- Explain how dynamic routes prevent web applications from having to be rewritten as new information is added
+- Create dynamic routes 
 
 ## Why Dynamic Routes?
 
